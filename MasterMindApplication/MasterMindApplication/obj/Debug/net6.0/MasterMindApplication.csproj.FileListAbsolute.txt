@@ -1,0 +1,15 @@
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\bin\Debug\net6.0\MasterMindApplication.exe
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\bin\Debug\net6.0\MasterMindApplication.deps.json
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\bin\Debug\net6.0\MasterMindApplication.runtimeconfig.json
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\bin\Debug\net6.0\MasterMindApplication.dll
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\bin\Debug\net6.0\MasterMindApplication.pdb
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.csproj.AssemblyReference.cache
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.AssemblyInfoInputs.cache
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.AssemblyInfo.cs
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.csproj.CoreCompileInputs.cache
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.dll
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\refint\MasterMindApplication.dll
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.pdb
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\MasterMindApplication.genruntimeconfig.cache
+C:\Users\johns\Desktop\Programming\MasterMindApplication\MasterMindApplication\obj\Debug\net6.0\ref\MasterMindApplication.dll
